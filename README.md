@@ -1,6 +1,9 @@
 # Sample Node Express Template
 
-A template to get started with Node / Express. Fork this repository or follow the steps below to create your own:
+Fork this template repository to get started with Node / Express. 
+
+
+Or follow the steps below to create your own:
 
 
 ### Create the repository
