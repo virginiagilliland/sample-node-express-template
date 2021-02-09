@@ -1,0 +1,27 @@
+{
+	"name": "sample-node-express-template",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"start-dev": "nodemon --inspect server.js",
+		"start-https": "nodemon --inspect server-https.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/omundy/sample-node-express-template.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/omundy/sample-node-express-template/issues"
+	},
+	"homepage": "https://github.com/omundy/sample-node-express-template#readme",
+	"dependencies": {
+		"express": "^4.17.1",
+		"express-handlebars": "^5.2.0",
+		"node-fetch": "^2.6.1"
+	}
+}
